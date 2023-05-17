@@ -37,4 +37,4 @@ If you would like to discuss these things, you can join me on LinkedIn or send m
 <a href="mailto:tm6622@rit.edu"><img alt="Email" src="https://img.shields.io/badge/Email-tm6622@rit.edu-red?style=flat&logo=gmail"></a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tarun-Mittal-cell.Tarun-Mittal-cell)
+![Followers](https://img.shields.io/github/followers/Tarun-Mittal-cell?style=social)
