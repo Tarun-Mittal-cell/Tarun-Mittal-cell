@@ -9,7 +9,6 @@ I'm a passionate full-stack software engineer, community influencer, open-source
 ## 🧐 About
 
 - 🏄‍ Community influencer and open-source contributor.
-- 🎓 Graduate research assistant at Rochester Institute of Technology.
 - 🖥️ Full stack developer with extensive experience in AI, NLP, and Deep Learning.
 - 💬 Ask me about anything related to MERN stack, Vue.js, Python, AI, NLP, TensorFlow, and PyTorch. I am happy to help and guide you.
 
