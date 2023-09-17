@@ -1,6 +1,6 @@
 # Hi, I'm Tarun Mittal! 👋
 
-I'm a passionate full-stack software engineer, community influencer, open-source contributor, and a graduate research assistant at the Rochester Institute of Technology. I love exploring new tech stacks💻, drinking coffee☕, and traveling✈️.
+I'm a passionate full-stack software engineer, community influencer, open-source contributor. I love exploring new tech stacks💻, drinking coffee☕, and traveling✈️.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tarun-Mittal-cell&show_icons=true" alt="Tarun's Github Stats">
