@@ -32,7 +32,7 @@ If you would like to discuss these things, you can join me on LinkedIn or send m
 
 <p align="center">
 <a href="https://github.com/Tarun-Mittal-cell" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Tarun--Mittal--cell-brightgreen?style=flat&logo=github"></a>
-<a href="https://linkedin.com/in/tarun-mittal-457a9b24a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Tarun Mittal-blue?style=flat&logo=linkedin"></a>
+<a href="https://linkedin.com/in/tarun-mittal-457a9b24a" target="_blank"></a>
 <a href="mailto:tm6622@rit.edu"><img alt="Email" src="https://img.shields.io/badge/Email-tm6622@rit.edu-red?style=flat&logo=gmail"></a>
 </p>
 
