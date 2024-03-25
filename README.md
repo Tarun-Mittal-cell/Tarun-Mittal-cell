@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tarun Mittal! 👋</h1>
 
 <p align="center">
-  I'm a passionate full-stack software engineer, community influencer, and open-source contributor.<br>
+  I'm a passionate full-stack software engineer, community influencer<br>
   I love exploring new tech stacks 💻, drinking coffee ☕, and traveling ✈️.
 </p>
 
