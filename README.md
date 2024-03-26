@@ -8,7 +8,6 @@
 <h2 align="center">🧐 About Me</h2>
 
 <ul>
-  <li>🏄‍ Community influencer and open-source contributor.</li>
   <li>🖥️ Full-stack developer with extensive experience in AI, NLP, and Deep Learning.</li>
   <li>💬 Ask me about MERN stack, Vue.js, Python, AI, NLP, TensorFlow, and PyTorch.</li>
 </ul>
